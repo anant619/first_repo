@@ -1,4 +1,6 @@
 import streamlit
-streamlit.title("Welcome to Clouchampion")
-streamlit.header("Cloud course")
-streamlit.text("AWS soutions architect")
+streamlit.header('Breakfast Favorites')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
